@@ -14,6 +14,8 @@ WARNING:exclamation:
 `std::allocator` is not implemented in this project because it is not required for the task at the moment... be careful:do_not_litter:  
   
 P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\>  
+The compiler to use is clang++. • Your code has to be compiled with the following flags : -Wall -Wextra -Werror.
+-std=c++98.
   
 ## Container ft::list\<\>:
   
