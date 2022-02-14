@@ -24,10 +24,10 @@ For your vector implementation, it is not mandatory to code the vector<bool> spe
 - [x] ([operator=](https://www.cplusplus.com/reference/vector/vector/operator=/))
   
 **Iterators:**  
-- [x] ([begin](https://www.cplusplus.com/reference/vector/vector/begin/))
-- [x] ([end](https://www.cplusplus.com/reference/vector/vector/end/))
-- [x] ([rbegin](https://www.cplusplus.com/reference/vector/vector/rbegin/))
-- [x] ([rend](https://www.cplusplus.com/reference/vector/vector/rend/))
+- [x] ([begin](https://www.cplusplus.com/reference/vector/vector/begin/)) Returns an iterator pointing to the first element in the vector
+- [x] ([end](https://www.cplusplus.com/reference/vector/vector/end/)) Returns an iterator pointing to the theoretical element that follows the last element in the vector
+- [x] ([rbegin](https://www.cplusplus.com/reference/vector/vector/rbegin/)) Returns a reverse iterator pointing to the last element in the vector (reverse beginning). It moves from last to first element
+- [x] ([rend](https://www.cplusplus.com/reference/vector/vector/rend/)) Returns a reverse iterator pointing to the theoretical element preceding the first element in the vector (considered as reverse end)
   
 **Capacity:**  
 - [x] ([size](https://www.cplusplus.com/reference/vector/vector/size/))
