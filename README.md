@@ -2,7 +2,7 @@
 ## Description
 The project implements the following containers:  
   
-**[Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)**  
+**[Vector](https://www.geeksforgeeks.org/vector-in-cpp-stl/)**  (https://www.cplusplus.com/reference/vector/vector/)
 **[Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)**  
 **[Stack](https://www.geeksforgeeks.org/stack-in-cpp-stl/)**   
   
