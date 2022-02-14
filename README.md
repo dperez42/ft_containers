@@ -16,7 +16,7 @@ The compiler to use is clang++. • Your code has to be compiled with the follow
 -std=c++98.
   
 ## Container ft::vector\<\>:
-  
+For your vector implementation, it is not mandatory to code the vector<bool> specialization.
 **Main coplien's form**  
 - [x] ([constructor](https://www.cplusplus.com/reference/vector/vector/vector/))
 - [x] ([destructor](https://www.cplusplus.com/reference/vector/vector/~vector/))
@@ -56,7 +56,7 @@ The compiler to use is clang++. • Your code has to be compiled with the follow
 - [x] ([swap (vector)](https://www.cplusplus.com/reference/vector/vector/swap-free/))
   
 ## Container ft::map\<\>:
-  
+ 
 **Main coplien's form**  
 - [x] ([constructor](https://www.cplusplus.com/reference/map/map/map/))
 - [x] ([destructor](https://www.cplusplus.com/reference/map/map/~map/))
@@ -94,7 +94,8 @@ The compiler to use is clang++. • Your code has to be compiled with the follow
 - [x] ([equal_range](https://www.cplusplus.com/reference/map/map/equal_range/))
 
 ## Container ft::stack\<\>:
-  
+Your stack will use your vector class as default underlaying container, it must still be
+compatible with others containers like the STL one.
 **Member functions:**  
 - [x] ([constructor](https://www.cplusplus.com/reference/stack/stack/stack/))
 - [x] ([empty](https://www.cplusplus.com/reference/stack/stack/empty/))
