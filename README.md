@@ -14,8 +14,6 @@ The project implements the following containers:
 WARNING:exclamation:  
 `std::allocator` is not implemented in this project because it is not required for the task at the moment... be careful:do_not_litter:  
   
-<img src="https://github.com/markveligod/ft_containers/raw/master/img/1.gif" width="800">  
-  
 P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\>  
   
 ## :moyai:Container ft::list\<\>:
