@@ -30,30 +30,30 @@ For your vector implementation, it is not mandatory to code the vector<bool> spe
 - [x] ([rend](https://www.cplusplus.com/reference/vector/vector/rend/)) Returns a reverse iterator pointing to the theoretical element preceding the first element in the vector (considered as reverse end)
   
 **Capacity:**  
-- [x] ([size](https://www.cplusplus.com/reference/vector/vector/size/))
-- [x] ([max_size](https://www.cplusplus.com/reference/vector/vector/max_size/))
-- [x] ([resize](https://www.cplusplus.com/reference/vector/vector/resize/))
-- [x] ([capacity](https://www.cplusplus.com/reference/vector/vector/capacity/))
-- [x] ([empty](https://www.cplusplus.com/reference/vector/vector/empty/))
-- [x] ([reserve](https://www.cplusplus.com/reference/vector/vector/reserve/))
+- [x] ([size](https://www.cplusplus.com/reference/vector/vector/size/)) Returns the number of elements in the vector.
+- [x] ([max_size](https://www.cplusplus.com/reference/vector/vector/max_size/)) Returns the maximum number of elements that the vector can hold.
+- [x] ([resize](https://www.cplusplus.com/reference/vector/vector/resize/)) 
+- [x] ([capacity](https://www.cplusplus.com/reference/vector/vector/capacity/)) Returns the size of the storage space currently allocated to the vector expressed as number of elements.
+- [x] ([empty](https://www.cplusplus.com/reference/vector/vector/empty/)) Resizes the container so that it contains ‘n’ elements.
+- [x] ([reserve](https://www.cplusplus.com/reference/vector/vector/reserve/)) Requests that the vector capacity be at least enough to contain n elements.
   
 **Element access:**  
-- [x] ([operator[]](https://www.cplusplus.com/reference/vector/vector/operator[]/))
-- [x] ([at](https://www.cplusplus.com/reference/vector/vector/at/))
-- [x] ([front](https://www.cplusplus.com/reference/vector/vector/front/))
-- [x] ([back](https://www.cplusplus.com/reference/vector/vector/back/))
+- [x] ([operator[]](https://www.cplusplus.com/reference/vector/vector/operator[]/)) Returns a reference to the element at position ‘g’ in the vector
+- [x] ([at](https://www.cplusplus.com/reference/vector/vector/at/)) Returns a reference to the element at position ‘g’ in the vector
+- [x] ([front](https://www.cplusplus.com/reference/vector/vector/front/)) Returns a reference to the first element in the vector
+- [x] ([back](https://www.cplusplus.com/reference/vector/vector/back/)) Returns a reference to the last element in the vector
   
 **Modifiers:**  
-- [x] ([assign](https://www.cplusplus.com/reference/vector/vector/assign/))
-- [x] ([push_back](https://www.cplusplus.com/reference/vector/vector/push_back/))
-- [x] ([pop_back](https://www.cplusplus.com/reference/vector/vector/pop_back/))
-- [x] ([insert](https://www.cplusplus.com/reference/vector/vector/insert/))
-- [x] ([erase](https://www.cplusplus.com/reference/vector/vector/erase/))
-- [x] ([swap](https://www.cplusplus.com/reference/vector/vector/swap/))
-- [x] ([clear](https://www.cplusplus.com/reference/vector/vector/clear/))
+- [x] ([assign](https://www.cplusplus.com/reference/vector/vector/assign/)) It assigns new value to the vector elements by replacing old ones
+- [x] ([push_back](https://www.cplusplus.com/reference/vector/vector/push_back/)) It push the elements into a vector from the back
+- [x] ([pop_back](https://www.cplusplus.com/reference/vector/vector/pop_back/)) It is used to pop or remove elements from a vector from the back.
+- [x] ([insert](https://www.cplusplus.com/reference/vector/vector/insert/)) It inserts new elements before the element at the specified position
+- [x] ([erase](https://www.cplusplus.com/reference/vector/vector/erase/)) It is used to remove elements from a container from the specified position or range.
+- [x] ([swap](https://www.cplusplus.com/reference/vector/vector/swap/)) It is used to swap the contents of one vector with another vector of same type. Sizes may differ.
+- [x] ([clear](https://www.cplusplus.com/reference/vector/vector/clear/)) It is used to remove all the elements of the vector container
   
 **Non-member function overloads:**  
-- [x] ([relational operators (vector)](https://www.cplusplus.com/reference/vector/vector/operators/))
+- [x] ([relational operators (vector)](https://www.cplusplus.com/reference/vector/vector/operators/)) 
 - [x] ([swap (vector)](https://www.cplusplus.com/reference/vector/vector/swap-free/))
   
 ## Container ft::map\<\>:
