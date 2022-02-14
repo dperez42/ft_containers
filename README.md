@@ -15,7 +15,7 @@ WARNING:exclamation:
   
 P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\>  
   
-## :moyai:Container ft::list\<\>:
+## Container ft::list\<\>:
   
 **Main coplien's form**  
 - [x] ([constructor](https://www.cplusplus.com/reference/list/list/list/))
@@ -62,7 +62,7 @@ P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\
 - [x] ([relational operators (list)](https://www.cplusplus.com/reference/list/list/operators/))
 - [x] ([swap (list)](https://www.cplusplus.com/reference/list/list/swap-free/))
 
-## :moyai:Container ft::vector\<\>:
+## Container ft::vector\<\>:
   
 **Main coplien's form**  
 - [x] ([constructor](https://www.cplusplus.com/reference/vector/vector/vector/))
@@ -102,7 +102,7 @@ P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\
 - [x] ([relational operators (vector)](https://www.cplusplus.com/reference/vector/vector/operators/))
 - [x] ([swap (vector)](https://www.cplusplus.com/reference/vector/vector/swap-free/))
   
-## :moyai:Container ft::map\<\>:
+## Container ft::map\<\>:
   
 **Main coplien's form**  
 - [x] ([constructor](https://www.cplusplus.com/reference/map/map/map/))
@@ -140,7 +140,7 @@ P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\
 - [x] ([upper_bound](https://www.cplusplus.com/reference/map/map/upper_bound/))
 - [x] ([equal_range](https://www.cplusplus.com/reference/map/map/equal_range/))
 
-## :moyai:Container ft::stack\<\>:
+## Container ft::stack\<\>:
   
 **Member functions:**  
 - [x] ([constructor](https://www.cplusplus.com/reference/stack/stack/stack/))
@@ -153,7 +153,7 @@ P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\
 **Non-member function overloads:**  
 - [x] ([relational operators (stack)](https://www.cplusplus.com/reference/stack/stack/operators/))
   
-## :moyai:Container ft::queue\<\>:
+## Container ft::queue\<\>:
   
 **Member functions:**  
 - [x] ([constructor](https://www.cplusplus.com/reference/queue/queue/queue/))
