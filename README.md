@@ -9,7 +9,7 @@ The project implements the following containers:
 *P.s. On the website `www.cplusplus.com` you can find a very important information about containers library STL.*  
   
 :do_not_litter: WARNING:exclamation:  
-- [x] ([You must use std::allocator](https://www.geeksforgeeks.org/stdallocator-in-cpp-with-examples/))
+- [x] You must use ([std::allocator](https://www.geeksforgeeks.org/stdallocator-in-cpp-with-examples/))
 - [ ] 
 P.s. `INCHECK` is a proprietary algorithm memory allocation in the ft::vector\<\>  
 The compiler to use is clang++. • Your code has to be compiled with the following flags : -Wall -Wextra -Werror.
