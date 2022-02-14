@@ -2,11 +2,11 @@
 ## Description
 The project implements the following containers:  
   
-**[List](https://codelessons.ru/cplusplus/spisok-list-v-s-polnyj-material.html)**  
-**[Vector](https://codelessons.ru/cplusplus/vektory-v-c-dlya-nachinayushhix.html)**  
-**[Map](https://codelessons.ru/cplusplus/map-v-c-chto-eto-i-kak-s-etim-rabotat.html)**  
-**[Stack](https://codelessons.ru/cplusplus/realizaciya-steka-stack-v-c.html)**  
-**[Queue](https://codelessons.ru/cplusplus/ochered-queue-v-c-realizaciya-i-chto-eto-voobshhe-takoe.html)**  
+**[List](https://www.geeksforgeeks.org/list-cpp-stl/)**  
+**[Vector]()**  
+**[Map]()**  
+**[Stack]()**  
+**[Queue]()**  
   
 *P.s. On the website `www.cplusplus.com` you can find a very important information about containers library STL.*  
   
